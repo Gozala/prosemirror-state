@@ -1,5 +1,5 @@
-import {Slice, Fragment} from "prosemirror-model"
-import {ReplaceStep, ReplaceAroundStep} from "prosemirror-transform"
+import {Slice, Fragment} from "../../prosemirror-model/src/index.js"
+import {ReplaceStep, ReplaceAroundStep} from "../../prosemirror-transform/src/index.js"
 
 const classesById = Object.create(null)
 
